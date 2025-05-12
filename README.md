@@ -1,4 +1,4 @@
-# ThinkPad Club 📝 ✨
+# ThinkPad Club 🤖✨
 
 Random resources and activities for a kids computer club. Maybe meeting infrequently, working independently alone or with parents etc. Focused on developing general literacy, confidence and practical skills through programming websites, video games, databases, small AI tools and building computers / computer parts from scratch in a variety of fun and practical materials.
 
@@ -10,7 +10,7 @@ Random resources and activities for a kids computer club. Maybe meeting infreque
 
 <br/>
 
-# Things to Buy...
+# Cool Stuff to Buy Maybe...
 
 Don't need to buy everything here, just a general list of things to facilitate different projects. None of these are a waste of money so go nuts, or pick them up as needed for individual projects.
 
@@ -18,18 +18,21 @@ Don't need to buy everything here, just a general list of things to facilitate d
 
 <img src="https://laptopmedia.com/wp-content/uploads/2017/06/Lenovo-ThinkPad-11e-Chromebook-3rd-Gen.jpg" style="width: 250px">
  
- ## Thinkpad 11e
+ ## Thinkpad Yoga (11e)
 
-Cheap, small starter laptop—folds into a tablet, some have touchscreens. Used ones often ~$100, so it’s okay if they get beat up. Not super powerful—struggles with high-quality YouTube, so less distracting. Fine for early web dev, Python, maybe Lego robots and databases (test first). Used/refurb/new all fine. Should come with Windows. Check Amazon or NewEgg, aim for $100–$200 range.
+This one is important. Great cheap small starter laptop—folds into a tablet with touchscreen. Used ones usually cost ~$100 so it’s okay if they get beat up / brokoen. Not super powerful with video streaming so less of a distraction box. Solid for early web dev, Python, maybe need to test for Lego robots and database stuff. Used / refurbished / new all fine. Should come with Windows installed.
 
 [thinkpad 11e choices on amazon](https://www.amazon.com/s?k=Thinkpad+Yoga+11e&crid=23UYEVT6TZ0YV&sprefix=thinkpad+yoga+11e%2Caps%2C167&ref=nb_sb_noss_1)
+
 [same thing on newegg](https://www.newegg.com/p/pl?d=lenovo+thinkpad+yoga+11e)
 
 <br/><br/>
 
+<img src="https://5.imimg.com/data5/SELLER/Default/2022/11/VZ/LL/UG/126021915/whatsapp-image-2022-11-12-at-17-16-08-1000x1000.jpeg" style="width: 375px">
+
 ## ThinkPad T470
 
-More serious laptop—good long-term option through high school and beyond. Still cheap enough not to stress over damage, and fully repairable with more power for advanced projects. Downsides: heavier, no touchscreen, pricier, and streams video easily (so more tempting distractions). Probably better for later; Danny’s first real computer, though he mostly uses the smaller ThinkPad now. again used/refurb/new all fine. Should have Windows. Amazon and NewEgg are good places to look.
+This one's probably for middle / high school. More serious laptop good for long-term use. Still cheap enough not to stress over damage and fully repairable with more power for advanced projects. Downsides, heavier, no touchscreen, pricier, and streams video better so more tempting distracting maybe. Again used / refurbished / new all good on Amazon and NewEgg.
 
 [thinkpad t470 choices on amazon](https://www.amazon.com/s?k=Thinkpad+Yoga+11e&crid=23UYEVT6TZ0YV&sprefix=thinkpad+yoga+11e%2Caps%2C167&ref=nb_sb_noss_1)
 
@@ -37,7 +40,7 @@ More serious laptop—good long-term option through high school and beyond. Stil
 
 <br/><br/>
 
-<img src="https://imagelab.artifi.net/Designer/Image/GetImage?format=png&personalization=d2ViQXBpQ2xpZW50S2V5JTNENWRkNzhhMjUtYzIyZC00ZmZlLWEzNmUtYjgwM2Y5MDcwMmFmJTI2d2Vic2l0ZUlkJTNEMTM2&ConversionUnit=In&allowIndexing=false&sku=200452978&angleCode=200452978_F1&parameters=%5B%7B%22type%22%3A%22image%22%2C%22widget_key%22%3A%228387%22%2C%22customFilters%22%3A%5B%5D%2C%22src%22%3A%2246709%22%2C%22width%22%3A%222.000%22%2C%22groupAlignment%22%3A%22topcenter%22%2C%22angle%22%3A%220%22%2C%22dm_code%22%3A%22SC%22%2C%22is_external_img%22%3Afalse%2C%22isRemoveBackground%22%3Afalse%2C%22isRemoveAllWhite%22%3Afalse%2C%22d_area%22%3Afalse%2C%22d_area_color%22%3A%22%22%7D%5D&width=600&height=600&isZoom=False" style="width: 150px">
+<img src="https://imagelab.artifi.net/Designer/Image/GetImage?format=png&personalization=d2ViQXBpQ2xpZW50S2V5JTNENWRkNzhhMjUtYzIyZC00ZmZlLWEzNmUtYjgwM2Y5MDcwMmFmJTI2d2Vic2l0ZUlkJTNEMTM2&ConversionUnit=In&allowIndexing=false&sku=200452978&angleCode=200452978_F1&parameters=%5B%7B%22type%22%3A%22image%22%2C%22widget_key%22%3A%228387%22%2C%22customFilters%22%3A%5B%5D%2C%22src%22%3A%2246709%22%2C%22width%22%3A%222.000%22%2C%22groupAlignment%22%3A%22topcenter%22%2C%22angle%22%3A%220%22%2C%22dm_code%22%3A%22SC%22%2C%22is_external_img%22%3Afalse%2C%22isRemoveBackground%22%3Afalse%2C%22isRemoveAllWhite%22%3Afalse%2C%22d_area%22%3Afalse%2C%22d_area_color%22%3A%22%22%7D%5D&width=600&height=600&isZoom=False" style="width: 200px">
 
 ## Paper ThinkPad Notebooks 
 
@@ -51,20 +54,24 @@ This one's just for fun. ThinkPads started as paper notebooks for IBM engineers 
 
 <br/><br/>
 
+<img src="https://cdn.mos.cms.futurecdn.net/6QbFZzDxe3LqFStGGksKLk.jpg" style="width: 375px">
+
 ## Mac Mini
 
-These are not portable, but you get an extreme amount of power for how much they cost. Macs are great but obviously more expensive, and they don't promote as much hardware literacy because they do not encourage or really allow any swapping of parts etc. The big advantage is that any model from 2023 on will be powerful enough to handle advanced website building and most importantly AI projects. This is definitely something to get later after reaching the limits of a ThinkPad.
+This one's also probably for later. Not portable but huge power for the price. Macs are great / reliable but cost more and discourage hardware tinkering. M2, M3, M4 or better should be good for more advanced web dev, mobile apps, video games and AI. Again used, refurbished or new new all fine. Check Amazon or NewEgg.
 
-Look for an M2, M3, M4 or higher. Once again used / refurbished is fine, new is fine. Should come with Windows pre-installed. Amazon and NewEgg are good places to get them.
+[mac minis on amazon](https://www.amazon.com/s?k=Mac+Mini&crid=1BUTA65VPE6B&sprefix=mac+mini%2Caps%2C201&ref=nb_sb_noss_1)
 
-https://www.amazon.com/s?k=Mac+Mini&crid=1BUTA65VPE6B&sprefix=mac+mini%2Caps%2C201&ref=nb_sb_noss_1
-
-https://www.newegg.com/p/pl?d=Mac+Mini
+[and on newegg](https://www.newegg.com/p/pl?d=Mac+Mini)
 
 <br/><br/>
 
-## Lego Spike (Prime)
+<img src="https://mybrick.com.au/images/45345.jpeg" style="width: 450px">
+
+## Lego Spike Robotics (Prime)
 (coming soon...)
+
+[spike prime set direct from lego](https://www.lego.com/en-us/product/lego-education-spike-prime-set-45678)
 
 <br/><br/>
 
