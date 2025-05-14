@@ -10,9 +10,9 @@ Random resources and activities for a kids computer club. Maybe meeting infreque
 
 <br/>
 
-# Cool Stuff to Buy Maybe...
+# Important Stuff to Get...
 
-Don't need to buy everything here, just a general list of things to facilitate different projects. None of these are a waste of money so go nuts, or pick them up as needed for individual projects.
+These seem like the core for starting up with programming in Python and learning how to build basic websites. The lego robotics kit is designed for classroom use and comes with a lot of lessons / projects that we can go through independently or as a group. The laptop (or any windows machine) is needed to program the Lego projects and can also be used to start building basic websites. Further down there are a lot of other things we can get later for other fun projects but these are the basics.
 
 <br/><br/>
 
@@ -22,11 +22,63 @@ Don't need to buy everything here, just a general list of things to facilitate d
 
 This one is important. Great cheap small starter laptop—folds into a tablet with touchscreen. Used ones usually cost ~$100 so it’s okay if they get beat up / brokoen. Not super powerful with video streaming so less of a distraction box. Solid for early web dev, Python, maybe need to test for Lego robots and database stuff. Used / refurbished / new all fine. Should come with Windows installed.
 
-[thinkpad 11e choices on amazon](https://www.amazon.com/s?k=Thinkpad+Yoga+11e&crid=23UYEVT6TZ0YV&sprefix=thinkpad+yoga+11e%2Caps%2C167&ref=nb_sb_noss_1)
-
-[same thing on newegg](https://www.newegg.com/p/pl?d=lenovo+thinkpad+yoga+11e)
+> ### Links...
+> - [thinkpad 11e choices on amazon](https://www.amazon.com/s?k=Thinkpad+Yoga+11e&crid=23UYEVT6TZ0YV&sprefix=thinkpad+yoga+11e%2Caps%2C167&ref=nb_sb_noss_1)
+> - [same thing on newegg](https://www.newegg.com/p/pl?d=lenovo+thinkpad+yoga+11e)
+> 
+> ### Potential Projects...
+> - build a website
+> - python basics
 
 <br/><br/>
+
+<img src="https://mybrick.com.au/images/45345.jpeg" style="width: 450px">
+
+## Lego Spike Robotics (Prime)
+
+These are a little pricey but 100% worth the money. They all come with dozens of free projects that you can do through an app that you should be able to run on any Windows machine including a ThinkPad that will incrementally teach coding starting with visual code blocks and building up to real-world python code. I **strongly reccomend starting with the Prime kit** since it's the only one you can code with python on.
+
+> ### Links... 
+> - [spike prime set direct from lego](https://www.lego.com/en-us/product/lego-education-spike-prime-set-45678)
+> 
+> ### Potential Projects...
+> - all lego spike classroom projects
+> - visual block coding
+> - word block coding
+> - python coding
+
+<br/><br/>
+
+---
+
+<br/><br/>
+
+# Other Stuff for Later Maybe...
+
+All this stuff is less critical. Some of it's for more advanced projects, some of it's just for fun. All of it is awesome though and can / should get picked up if it seems inspiring. For the most part all the connected projects can be done independently or as a group so it's all money well spent if you go for any of it. 
+
+<br/><br/>
+
+<img src="https://cdn.shopify.com/s/files/1/0089/0647/3536/products/6502_280x420.png?v=1568331711" style="width: 375px">
+
+## Build a Basic Computer Kit 
+
+This is an amazing project probably for later on. Basically this is a kit that walks you through building a version of the first personal computer from scratch. It has a full series of youtube tutorial videos so it can be done independently or as a group in several sessions where we could watch the videos together and make sure everybody's computer stays on track.
+
+[link to kit and video tutorials](https://eater.net/6502)
+
+<br/><br/>
+
+<img src="https://cdn.shopify.com/s/files/1/0089/0647/3536/products/computer-hero-42_550x825.png?v=1544158524" style="width: 375px">
+
+## Build a (More) Basic Computer Kit 
+
+This is more involved than the previous kit but walks you through making an even more basic computer from even more basic parts. It also has a full series of youtube tutorial videos so it can be done independently or as a group in several sessions where we could watch the videos together and work through the steps.
+
+[link to kit and video tutorials](https://eater.net/8bit)
+
+<br/><br/>
+
 
 <img src="https://5.imimg.com/data5/SELLER/Default/2022/11/VZ/LL/UG/126021915/whatsapp-image-2022-11-12-at-17-16-08-1000x1000.jpeg" style="width: 375px">
 
@@ -63,25 +115,6 @@ This one's also probably for later. Not portable but huge power for the price. M
 [mac minis on amazon](https://www.amazon.com/s?k=Mac+Mini&crid=1BUTA65VPE6B&sprefix=mac+mini%2Caps%2C201&ref=nb_sb_noss_1)
 
 [and on newegg](https://www.newegg.com/p/pl?d=Mac+Mini)
-
-<br/><br/>
-
-<img src="https://mybrick.com.au/images/45345.jpeg" style="width: 450px">
-
-## Lego Spike Robotics (Prime)
-(coming soon...)
-
-[spike prime set direct from lego](https://www.lego.com/en-us/product/lego-education-spike-prime-set-45678)
-
-<br/><br/>
-
-## Build a Computer Kit 
-(coming soon...)
-
-<br/><br/>
-
-## Build a Better Computer Kit 
-(coming soon...)
 
 <br/><br/>
 
