@@ -1,4 +1,4 @@
-# ThinkPad Club 
+# ThinkPad Kidz Club 
 
 Random resources and activities for a kids computer club. Maybe meeting infrequently, working independently alone or with parents etc. Focused on developing general literacy, confidence and practical skills through programming websites, video games, databases, small AI tools and building computers / computer parts from scratch in a variety of fun and practical materials.
 
