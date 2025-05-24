@@ -1,64 +1,86 @@
-# ThinkPad Club 🤖✨
+# ThinkPad Club 
 
 Random resources and activities for a kids computer club. Maybe meeting infrequently, working independently alone or with parents etc. Focused on developing general literacy, confidence and practical skills through programming websites, video games, databases, small AI tools and building computers / computer parts from scratch in a variety of fun and practical materials.
 
-<!-- <img src="https://clipart-library.com/images/rijKyop4T.jpg" style="width: 350px"> -->
-
-<br/>
-
 ---
 
-<br/>
-
-# Important Stuff to Get...
-
-These seem like the core for starting up with programming in Python and learning how to build basic websites. The lego robotics kit is designed for classroom use and comes with a lot of lessons / projects that we can go through independently or as a group. The laptop (or any windows machine) is needed to program the Lego projects and can also be used to start building basic websites. Further down there are a lot of other things we can get later for other fun projects but these are the basics.
-
-<br/><br/>
+<br/><br/><br/>
 
 <img src="https://laptopmedia.com/wp-content/uploads/2017/06/Lenovo-ThinkPad-11e-Chromebook-3rd-Gen.jpg" style="width: 250px">
  
- ## Thinkpad Yoga (11e)
-
-This one is important. Great cheap small starter laptop—folds into a tablet with touchscreen. Used ones usually cost ~$100 so it’s okay if they get beat up / brokoen. Not super powerful with video streaming so less of a distraction box. Solid for early web dev, Python, maybe need to test for Lego robots and database stuff. Used / refurbished / new all fine. Should come with Windows installed.
-
-> ### Links...
+ ## Thinkpad Yoga (11e) 8GB of RAM
+This one is important. Great cheap small starter laptop—folds into a tablet with touchscreen. Used ones usually cost ~$100 so it’s okay if they get beat up / brokoen. Not super powerful with video streaming so less of a distraction box. Solid for early web dev, Python, maybe need to test for Lego robots and database stuff. Used / refurbished / new all fine. Should come with Windows installed. **Make sure it has 8GB of RAM! ⚠️**
 > - [thinkpad 11e choices on amazon](https://www.amazon.com/s?k=Thinkpad+Yoga+11e&crid=23UYEVT6TZ0YV&sprefix=thinkpad+yoga+11e%2Caps%2C167&ref=nb_sb_noss_1)
+> - [thinkpad 11e choices on ebay](https://www.ebay.com/sch/i.html?_nkw=thinkpad%20yoga%2011e%208GB%20RAM)
 > - [same thing on newegg](https://www.newegg.com/p/pl?d=lenovo+thinkpad+yoga+11e)
-> 
-> ### Potential Projects...
-> - build a website
-> - python basics
 
-<br/><br/>
-
+<br/><br/><br/>
 <img src="https://mybrick.com.au/images/45345.jpeg" style="width: 450px">
 
 ## Lego Spike Robotics (Prime)
-
-These are a little pricey but 100% worth the money. They all come with dozens of free projects that you can do through an app that you should be able to run on any Windows machine including a ThinkPad that will incrementally teach coding starting with visual code blocks and building up to real-world python code. I **strongly reccomend starting with the Prime kit** since it's the only one you can code with python on.
-
-> ### Links... 
+These are a little pricey but 100% worth the money. They all come with dozens of free projects that you can do through an app that you should be able to run on any Windows machine including a ThinkPad that will incrementally teach coding starting with visual code blocks and building up to real-world python code. Definitely just get **the Prime kit** since it's the only one you can code with python on.
 > - [spike prime set direct from lego](https://www.lego.com/en-us/product/lego-education-spike-prime-set-45678)
-> 
-> ### Potential Projects...
-> - all lego spike classroom projects
-> - visual block coding
-> - word block coding
-> - python coding
+> - [spike curriculum portal](https://spike.legoeducation.com/)
 
-<br/><br/>
+<br/><br/><br/>
+<img src="https://github.com/user-attachments/assets/a034517b-2594-486e-80cb-98f97f877146" style="width: 250px">
 
----
+## Learn Scratch!
+Scratch is (basically) a programming language and set of tutorials and projects created by MIT to teach kids coding fundamentals. It's visual block coding and focuses on coding animated characters and games. It's extremely beginner friendly, kid friendly and fun. 
+> - [scratch home page](https://scratch.mit.edu/)
+> - [get started tutorial (start here)](https://scratch.mit.edu/)
+> - [starter projects](https://scratch.mit.edu/starter-projects)
 
-<br/><br/>
 
-# Other Stuff for Later Maybe...
+<br/><br/><br/>
+<img src="https://github.com/user-attachments/assets/4aa82d23-0e1f-4867-8475-a26e8f58d5da" style="width: 350px">
 
-All this stuff is less critical. Some of it's for more advanced projects, some of it's just for fun. All of it is awesome though and can / should get picked up if it seems inspiring. For the most part all the connected projects can be done independently or as a group so it's all money well spent if you go for any of it. 
+## Learn Python!
+Python is maybe the most popular, most powerful and beginner-friendly programming language that has ever existed. It is used literally everywhere from k-12 classrooms to research labs and machine learning training. These are some fun tutorials to start with but the sky is the limit with Python. 
+> - [learn python with turtle](https://hourofpython.trinket.io/a-visual-introduction-to-python#/turtles/meet-tina)
+> - [learn python with lego spike](https://spike.legoeducation.com/essential/help/lls-help-python#lls-help-python-gs-intro-syntax)
+> - [learn python with w3 schools](https://www.w3schools.com/python/)
 
-<br/><br/>
+<br/><br/><br/>
+<img src="https://github.com/user-attachments/assets/24a5bd3e-fd0b-4bdc-9e32-1bd2bec22b27" style="width: 300px">
 
+## Learn HTML, CSS & JavaScript!
+HTML, CSS and JavaScript are the languages of the internet. They aren't always pretty but they are easy to pick up, JavaScript is the only real programming language among them, and it has a strong reputation for being beginner friendly and flexible. Once we have the basics down for these we can start building real websites!
+> - [learn html with w3 schools](https://www.w3schools.com/html/)
+> - [learn javascript with w3 schools](https://www.w3schools.com/html/)
+> - [learn css with w3 schools](https://www.w3schools.com/html/)
+
+
+<br/><br/><br/>
+<img src="https://github.com/user-attachments/assets/3cd64dd5-62ee-4d5d-a963-d4c9d81933e5" style="width: 350px">
+
+## Build a Website!
+This is a big jump forward. Once you have a little HTML, CSS and JavaScript down you are ready to start building real websites and publishing them so they are live on the internet to share. To get started you'll want to make sure you have made **a GitHub account** to save and share your code through, and you'll want to make sure you've downloaded **Visual Studio Code** as a code editor.
+> - [dowload visual studio code](https://code.visualstudio.com/download)
+> - [create a new github account](https://github.com/signup)
+> - [github (web)pages](https://docs.github.com/en/pages/quickstart)
+
+<br/><br/><br/><br/>
+**That's plenty for now more coming soon...**
+
+
+<!--
+<br/><br/><br/>
+<img src="https://github.com/user-attachments/assets/a034517b-2594-486e-80cb-98f97f877146" style="width: 250px">
+
+## Make a GitHub Account!
+Scratch is (basically) a programming language and set of tutorials and projects created by MIT to teach kids coding fundamentals. It's visual block coding and focuses on coding animated characters and games. It's extremely beginner friendly, kid friendly and fun. 
+> - [scratch home page](https://scratch.mit.edu/)
+
+<br/><br/><br/>
+<img src="https://github.com/user-attachments/assets/a034517b-2594-486e-80cb-98f97f877146" style="width: 250px">
+
+## Download VS Code!
+Scratch is (basically) a programming language and set of tutorials and projects created by MIT to teach kids coding fundamentals. It's visual block coding and focuses on coding animated characters and games. It's extremely beginner friendly, kid friendly and fun. 
+> - [scratch home page](https://scratch.mit.edu/)
+
+
+<br/><br/><br/>
 <img src="https://cdn.shopify.com/s/files/1/0089/0647/3536/products/6502_280x420.png?v=1568331711" style="width: 375px">
 
 ## Build a Basic Computer Kit 
@@ -212,3 +234,5 @@ No particular order to these, they all require different materials listed above.
 
 ## Make a Command Line Tool
 (coming soon...)
+
+-->
