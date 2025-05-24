@@ -66,7 +66,11 @@ This is a big jump forward. Once you have a little HTML, CSS and JavaScript down
 ![image](https://github.com/user-attachments/assets/b1612bf1-036f-4fa2-a73a-b31221600ba6)
 
 ## "Think" Merch from IBM 
-This is just for fun. ThinkPads started as physical paper notebooks that IBM gave to it's engineers in the 1920's. Eventually the used the name for their ThinkPad laptops which would become one of the most beloved and respected computer lines of all time because of it's affordability and customizablility. Anyway it's crazy they still make "think" merch, and it's all pretty cheap and shipping is free (?).
+This is just for fun. ThinkPads started as physical paper notebooks
+that IBM gave to it’s engineers in the 1920s (?!). Eventually they used the
+name for their ThinkPad laptops which would become one of the most
+beloved and respected computer lines of all time. Anyway it’s crazy they still make
+“think” merch, and it’s all pretty cheap and shipping is free (?).
 > - [notebooks and other "think" merch](https://logostore-globalid.us/category/5048)
 > - [history of the thinkpad](https://en.wikipedia.org/wiki/ThinkPad)
 
