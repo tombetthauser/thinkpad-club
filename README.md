@@ -60,6 +60,18 @@ This is a big jump forward. Once you have a little HTML, CSS and JavaScript down
 > - [create a new github account](https://github.com/signup)
 > - [github (web)pages](https://docs.github.com/en/pages/quickstart)
 
+<br/><br/><br/>
+
+![image](https://github.com/user-attachments/assets/5f8a6369-29d3-4b06-8cc8-be3690d975b3)
+![image](https://github.com/user-attachments/assets/b1612bf1-036f-4fa2-a73a-b31221600ba6)
+
+## "Think" Merch from IBM 
+This is just for fun. ThinkPads started as physical paper notebooks that IBM gave to it's engineers in the 1920's. Eventually the used the name for their ThinkPad laptops which would become one of the most beloved and respected computer lines of all time because of it's affordability and customizablility. Anyway it's crazy they still make "think" merch, and it's all pretty cheap and shipping is free (?).
+> - [notebooks and other "think" merch](https://logostore-globalid.us/category/5048)
+> - [history of the thinkpad](https://en.wikipedia.org/wiki/ThinkPad)
+
+
+
 <br/><br/><br/><br/>
 **That's plenty for now more coming soon...**
 
@@ -112,19 +124,6 @@ This one's probably for middle / high school. More serious laptop good for long-
 
 [same thing on newegg](https://www.newegg.com/p/pl?d=thinkpad+t470)
 
-<br/><br/>
-
-<img src="https://imagelab.artifi.net/Designer/Image/GetImage?format=png&personalization=d2ViQXBpQ2xpZW50S2V5JTNENWRkNzhhMjUtYzIyZC00ZmZlLWEzNmUtYjgwM2Y5MDcwMmFmJTI2d2Vic2l0ZUlkJTNEMTM2&ConversionUnit=In&allowIndexing=false&sku=200452978&angleCode=200452978_F1&parameters=%5B%7B%22type%22%3A%22image%22%2C%22widget_key%22%3A%228387%22%2C%22customFilters%22%3A%5B%5D%2C%22src%22%3A%2246709%22%2C%22width%22%3A%222.000%22%2C%22groupAlignment%22%3A%22topcenter%22%2C%22angle%22%3A%220%22%2C%22dm_code%22%3A%22SC%22%2C%22is_external_img%22%3Afalse%2C%22isRemoveBackground%22%3Afalse%2C%22isRemoveAllWhite%22%3Afalse%2C%22d_area%22%3Afalse%2C%22d_area_color%22%3A%22%22%7D%5D&width=600&height=600&isZoom=False" style="width: 200px">
-
-## Paper ThinkPad Notebooks 
-
-This one's just for fun. ThinkPads started as paper notebooks for IBM engineers in the 50's. They also would put little plastic signs on all their giant ancient computers with the text "think" as far back as the 1920's. Somehow they still make and sell the notepads and other "think" merch.
-
-[large think paper notepad](https://logostore-globalid.us/product/725710-ibm-think-journal)
-
-[smaller think notepad](https://logostore-globalid.us/product/725710-ibm-think-journal)
-
-[other think merch](https://logostore-globalid.us/category/5048)
 
 <br/><br/>
 
