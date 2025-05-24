@@ -18,7 +18,7 @@ This one is important. Great cheap small starter laptop—folds into a tablet wi
 <img src="https://mybrick.com.au/images/45345.jpeg" style="width: 450px">
 
 ## Lego Spike Robotics (Prime)
-These are a little pricey but 100% worth the money. They all come with dozens of free projects that you can do through an app that you should be able to run on any Windows machine including a ThinkPad that will incrementally teach coding starting with visual code blocks and building up to real-world python code. Definitely just get **the Prime kit** since it's the only one you can code with python on.
+This can get picked up later after going through the Scratch, Python, HTML / CSS / JavaScript basics linked below. They're a little pricey but 100% worth the money. Lego provides tons of projects and tutorials that take kids from visual block coding through to python. The Prime kit is the only one you can code with python on. **Make sure to get the Prime kit! ⚠️**
 > - [spike prime set direct from lego](https://www.lego.com/en-us/product/lego-education-spike-prime-set-45678)
 > - [spike curriculum portal](https://spike.legoeducation.com/)
 
