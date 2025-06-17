@@ -143,99 +143,67 @@ This one's also probably for later. Not portable but huge power for the price. M
 
 <br/><br/>
 
-## Raspberry Pi B
+## Buy a Raspberry Pi B!
 (coming soon...)
 
 <br/><br/>
 
-## Raspberry Pi Mini
+## Buy a Raspberry Pi Mini!
 (coming soon...)
 
 <br/><br/>
 
-## Dominoes
+## Build a Computer Circuit with Dominoes!
 (coming soon...)
 
 <br/><br/>
 
-# Random Projects
-(coming soon...)
-
-No particular order to these, they all require different materials listed above. Most can be done as a group or individually at home with parents.
-
-<br/><br/>
-
-## Lego Spike Projects
+## Build a Server!
 (coming soon...)
 
 <br/><br/>
 
-## Build a Website
+## Make a Database!
 (coming soon...)
 
 <br/><br/>
 
-## Build a Computer
+## Make an AI Tool!
 (coming soon...)
 
 <br/><br/>
 
-## Build a Server
+## Learn How to Train an AI with fast.ai!
 (coming soon...)
 
 <br/><br/>
 
-## Build a Domino Computer
+## Make a Smart Phone App with Swift!
 (coming soon...)
 
 <br/><br/>
 
-## Make a Database
+## Learn to Make 3D Objects with Blender!
 (coming soon...)
 
 <br/><br/>
 
-## Make an AI Tool
+## Code a Basic 3D Scene with 3JS!
 (coming soon...)
 
 <br/><br/>
 
-## Train an AI Tool
+## Code an Advanced 3D Scene with Shaders!
 (coming soon...)
 
 <br/><br/>
 
-## Make a Game Boy Game
+## Code an Advanced 3D Scene with Shaders!
 (coming soon...)
 
 <br/><br/>
 
-## Make a Smart Phone Game
-(coming soon...)
-
-<br/><br/>
-
-## Make a Nintendo Switch Game
-(coming soon...)
-
-<br/><br/>
-
-## Make a Python Game
-(coming soon...)
-
-<br/><br/>
-
-## Make a Basic 3D Scene (3JS)
-(coming soon...)
-
-<br/><br/>
-
-## Make an Advanced 3D Scene (Shaders)
-(coming soon...)
-
-<br/><br/>
-
-## Make a Command Line Tool
+## Make a Command Line Tool with Bash!
 (coming soon...)
 
 -->
